@@ -1,0 +1,11 @@
+.imagecontainer {
+    display: flex;
+    align-items: flex-start;
+}
+
+.image {
+    margin: 0px 0px 0px 0px;
+    width: 100vw;
+    max-width:100vw;
+    height: auto;
+}
